@@ -1,19 +1,28 @@
 {
-  "name": "@spurb/fechadura",
-  "version": "1.0.0",
-  "description": "Autenticacao de apis do portal gestaourbanasp. Solicite a chave com devspurbanismo ou smul/atic.",
-  "main": "index.js",
-  "scripts": {
-    "test": "node teste.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SPURB/fechadura.git"
-  },
-  "author": "São Paulo Urbanismo",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/SPURB/fechadura/issues"
-  },
-  "homepage": "https://github.com/SPURB/fechadura#readme"
+	"name": "@spurb/fechadura",
+	"version": "1.0.0",
+	"description": "Autenticação das apis do portal gestaourbanasp.",
+	"main": "index.js",
+	"scripts": {
+		"test": "node teste.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SPURB/fechadura.git"
+	},
+	"author": {
+		"name": "São Paulo Urbanismo",
+		"email": "desenvolvimento@spurbanismo.sp.gov.br"
+	},
+	"contributors": [
+		{
+			"name": "Thomas Yuba",
+			"email": "yubathom@gmail.com"
+		}
+	],
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/SPURB/fechadura/issues"
+	},
+	"homepage": "https://github.com/SPURB/fechadura#readme"
 }
