@@ -1,0 +1,15 @@
+{
+  "name": "fechadura",
+  "version": "1.0.0",
+  "description": "Autenticacao de apis do portal gestaourbanasp. Solicite a chave com devspurbanismo ou smul/atic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node teste.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/spurb/fechadura"
+  },
+  "author": "São Paulo Urbanismo",
+  "license": "GPL-3.0-or-later"
+}
