@@ -23,4 +23,4 @@ var chave = {
 	60: "Henrique"
 }
 
-console.log(fechadura(chave, 'nomes'))
+console.log(fechadura(chave, 'nome'))
