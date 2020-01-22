@@ -1,6 +1,6 @@
 {
 	"name": "@spurb/fechadura",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Autenticação das apis do portal gestaourbanasp.",
 	"main": "index.js",
 	"scripts": {
